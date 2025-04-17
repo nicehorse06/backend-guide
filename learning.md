@@ -32,9 +32,16 @@
 - **TCP/IP Illustrated, Volume 1 : The Protocols** – Kevin R. Fall, W. Richard Stevens
 
 ## 🖥️ Operating Systems
-- **Computer Systems: A Programmer's Perspective** – Randal E. Bryant, David R. O’Hallaron  
-- **Operating System Concepts** – Abraham Silberschatz, Peter B. Galvin, Greg Gagne  
-- **Operating Systems: Three Easy Pieces** – Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau  
+> To gain a solid understanding of how programs interact with the underlying operating system and hardware, here’s a recommended reading sequence:
+
+- **Operating Systems: Three Easy Pieces** – Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+  - A beginner-friendly introduction to virtualization, concurrency, and file systems.
+- **Computer Systems: A Programmer's Perspective** – Randal E. Bryant, David R. O’Hallaron
+  - Explains how programs interact with memory, the CPU, and the OS—great for understanding performance and behavior.
+- **Operating System Concepts** – Abraham Silberschatz, Peter B. Galvin, Greg Gagne   
+  - A comprehensive textbook covering OS theory in depth—ideal for advanced learners.
+
+
 
 ## 🐧 Linux Administration
 - **UNIX and Linux System Administration Handbook (5th Edition)** – Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, Dan Mackin  
