@@ -26,6 +26,9 @@
 
 ## 🗄️ Database
 - **[PostgreSQL Official Documentation](https://www.postgresql.org/docs/)**  
+### SQL practice
+* [Hackrank](https://www.hackerrank.com/domains/sql)
+* [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ## 🌐 Networking
 - **Computer Networking: A Top-Down Approach** – James F. Kurose, Keith W. Ross
