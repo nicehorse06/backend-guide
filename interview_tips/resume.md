@@ -1,0 +1,38 @@
+# Resume Tips
+- Use a one-page PDF resume with clean formatting.
+    - A one-page resume is often called a **resume**.
+        - Most jobs only require a resume.
+        - A detailed multi-page document is called a **CV**.
+    - Avoid using formats like `.docx` that are not universally compatible. Use PDF.
+        - Google Docs can be used to maintain the resume and downloaded as PDF.
+    - Customize the resume for the specific company's needs.
+        - For example, if you know React but the company uses Vue, emphasize that you're interested.
+    - Ensure the resume is clear when printed in black and white or scanned.
+        - Pay attention to colors, fonts, and sizes.
+        - Use blue, underlined text for hyperlinks.
+            - Underlining isn't necessary, and links can't be clicked on paper.
+- Avoid providing personal information not related to your education, experience, or work.
+    - Consider omitting a photo.
+    - You don't need to state your gender.
+    - Focus on your skills, projects, and work experience.
+    - After gaining work experience, your education can be placed later in the resume.
+    - Add hyperlinks where possible:
+        - Previous companies
+        - Graduated school
+        - Projects you've worked on
+- Include important contact information:
+    - GitHub
+    - Email
+    - LinkedIn
+    - Phone
+- Showcase your work in previous projects:
+    - Use numbers and specifics instead of vague descriptions.
+    - Be prepared to explain every detail of the project at the top of your resume.
+    - What exactly was your responsibility at work?
+    - How did you tackle challenges?
+    - What skills did you demonstrate?
+- Prove your skills with actual projects.
+    - Present what you’ve done using the technology.
+    - Avoid stating “proficient,” “familiar,” or “70% skilled.”
+        - Don’t exaggerate. If the interviewer asks detailed questions, be prepared.
+    - You can summarize your skills at the beginning.

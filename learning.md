@@ -49,6 +49,9 @@
 ## 🐧 Linux Administration
 - **UNIX and Linux System Administration Handbook (5th Edition)** – Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, Dan Mackin  
 - **Linux Bible (10th Edition)** – Christopher Negus
+- man page, and its TLDR projects
+- [ArchWiki](https://wiki.archlinux.org/title/Main_page)
+  - install Wikiman
 
 ## 🚀 DevOps/SRE
 - **The Phoenix Project** – Gene Kim, Kevin Behr, George Spafford  
